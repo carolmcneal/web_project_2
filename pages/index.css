@@ -33,13 +33,28 @@ html{
     margin-top:80px;
     margin-left:80px;
     margin-bottom:28px;
+    font-family: Inter;
+font-weight: 500;
+font-size: 60px;
+line-height: 72px;
 
+
+}
+.header__span-accent{
+    font-family: Noto Serif;
+    font-style: italic;
+    font-size: 60px;
+    line-height: 72px;
+    color: #2F80ED;
 }
 .header__description{
     margin-left:80px;
     max-width:683px;
     margin-top: 0%;
     margin-bottom: 0%;
+    font-family: Noto Serif;
+font-size: 20px;
+line-height: 30px;
 }
 .header__paragraph{
     display:flex;
@@ -49,6 +64,12 @@ html{
    left: 80px;
    right:80px;
    bottom:40px;
+   font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #6F6F6F;
 
 }
 .header__column_address{
@@ -88,6 +109,9 @@ html{
     margin-bottom: 0%;
     list-style:none;
     padding: 0%;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 20px;
 
 }
 .nav__link{
@@ -99,6 +123,15 @@ transition:color  .5s linear .5s;
  color: #2F80ED; 
 }
 
+.main-content{
+    background-color: #0a2750;
+    background-image: url(../images/background_menu.svg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
 
+.menu__title{
+    
+}
 
 
