@@ -23,11 +23,11 @@ color: #FFFFFF;
 margin:0;
 }
 
-.card__list_item{
+.card__list-item{
     display: flex;
     margin-bottom: 16px;
 }
-.card__list_divider{
+.card__list-divider{
     display: flex;
     border-bottom: 1px solid #FFFFFF;
     flex-grow: 1;
