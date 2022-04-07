@@ -13,4 +13,4 @@ This is the second project of the Software Engineer program at Practicum by Yand
 
 ## Plan on improving the project
 
-Add your ideas here :)
+The lack of explicit directions made this one kind of tricky, but that's the best way to learn. Overall, I think the project helped me a lot to be more independent and figure things out on my own since the directions in the brief were very basic. 
