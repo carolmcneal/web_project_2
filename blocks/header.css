@@ -17,6 +17,8 @@
     }
 
 .header__title{
+    display:flex;
+    flex-direction: column;
     max-width:729px;
     margin-top:80px;
     margin-left:80px;
