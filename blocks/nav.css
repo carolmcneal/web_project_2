@@ -21,6 +21,10 @@
   color: black;
   transition: color 0.5s linear 0.5s;
   text-decoration: none;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight:500;
 }
 
 .nav__link:hover {
